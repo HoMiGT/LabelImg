@@ -1,0 +1,5 @@
+small
+border
+abnormal
+mark
+miss
